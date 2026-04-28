@@ -1,1 +1,11 @@
-TEST
+{
+  "latest_version": "1.0.1",
+  "download_url": "https://github.com/upset-app/update/releases/latest",
+  "changelog": [
+    "Improved UI design with rounded corners",
+    "Fixed background focus issues in settings",
+    "Added in-app update notification system",
+    "Better default avatar visibility"
+  ],
+  "force_update": false
+}
